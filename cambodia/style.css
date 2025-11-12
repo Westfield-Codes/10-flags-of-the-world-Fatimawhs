@@ -21,6 +21,7 @@ body {
     background:#032EA1;
     border-left: 2px solid black;
     border-right: 2px solid black;
+    height:150px;
 }
 
 .red {
@@ -28,16 +29,19 @@ body {
     border-left: 2px solid black;
     border-right: 2px solid black;
     border-bottom: 2px solid black;
+    height:250px;
+    padding-top:25px;
+    padding-bottom:25px;
 }
 
 .flag {
     margin:auto;
     width:800px;
-    length:600px;
+    height:600px;
 }
 
 img {
-    width:600px;
+    width:400px;
     margin:auto;
     display:block;
     align-items:center;
