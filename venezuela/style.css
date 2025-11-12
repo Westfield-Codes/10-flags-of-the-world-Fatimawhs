@@ -7,14 +7,15 @@ a {
     text-align:center;
 }
 
-.stripe.blue{
-text-align:center;
-padding-top:40px;
-padding-bottom:0px;
+.stripe.blue {
+	  box-sizing: border-box;
+	  padding-top:35px;
 }
-img {
+
+.stripe.blue img{
     width:300px;
     margin:auto;
+	display:block;
 }
 
 .flag {
