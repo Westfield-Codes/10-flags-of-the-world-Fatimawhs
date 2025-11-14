@@ -41,3 +41,8 @@ img {
     margin:auto;
     display:block;
 }
+
+.stripe.yellow {
+    box-sizing:border-box;
+    padding-top:100px;
+}
