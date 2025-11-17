@@ -9,14 +9,14 @@ a {
 }
 
 .flag {
-    width:900px;
-    height:600px;
+    width:1000px;
+    height:500px;
     margin:auto;
 }
 
 .stripe {
-    width:200px;
-    height: 100%;
+    width:333px;
+    height: 500px;
     float:left;
 }
 
@@ -29,12 +29,6 @@ a {
 
 img {
     margin:left;
-}
-
-.stripe.red p {
-    font-size:100px;
-    line: hieght 100px;
-    margin-top:150px;
-    text-align:center;
-    color:#fbd100
+    width:190px;
+    position-center
 }
