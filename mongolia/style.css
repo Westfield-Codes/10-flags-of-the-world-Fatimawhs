@@ -8,6 +8,20 @@ a {
     text-align:center;
 }
 
+.red{
+    background:#c7272f;
+    text-align:center;
+    padding-top:25px;
+    box-sizing:border-box;
+}
+.blue{
+    background:#025299;
+}
+
+img {
+    width:190px;
+}
+
 .flag {
     width:1000px;
     height:500px;
@@ -20,15 +34,3 @@ a {
     float:left;
 }
 
-.red{
-    background:#c7272f
-}
-.blue{
-    background:#025299
-}
-
-img {
-    margin:left;
-    width:190px;
-    position-center
-}
